@@ -1,5 +1,5 @@
 # cadastrodeusuariopython.github.io
-Cadastro de Usuário em Java
+Cadastro de Usuário em Python
 class Usuario:
     def __init__(self, nome_completo, nacionalidade, profissao, estado_civil, cpf, endereco, email, telefone):
         self.nome_completo = nome_completo
